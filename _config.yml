@@ -53,7 +53,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : /
+  BASE_PATH : false
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
@@ -67,10 +67,10 @@ JB :
   # Some JB helpers refer to these paths; change them here if needed.
   #
   archive_path: http://Prisoner0116.github.io/Prisoner0116.github.io/archive.html
-  categories_path : http://Prisoner0116.github.io/Prisoner0116.github.io/categories.html
-  tags_path : http://Prisoner0116.github.io/Prisoner0116.github.io/tags.html
-  atom_path : http://Prisoner0116.github.io/Prisoner0116.github.io/atom.xml
-  rss_path : http://Prisoner0116.github.io/Prisoner0116.github.io/rss.xml
+  categories_path : /categories.html
+  tags_path : /tags.html
+  atom_path : /atom.xml
+  rss_path : /rss.xml
 
   # Settings for comments helper
   # Set 'provider' to the comment provider you want to use.

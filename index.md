@@ -1,42 +1,17 @@
 ---
 layout: page
-title: 简历
-tagline: (Resume)
+title: Jianlong Yu
+tagline: (About Me)
 ---
 {% include JB/setup %}
 
 
-### Career Objective
+## Basic Infomation
 
-##### To become a Java engineer in software area,which will allow me to utilize my knowledge and skills to prepare efficient and effective budget plans for the company, thereby improving their profitability.
+##### Hello,i'm Jianlong Yu,25 years old. I'm a programmer,photographer ,bad cooker and bassist currently living in Shanghai, China. 
 
-### Language Skills
+## Further know about me 
 
-##### Very well listening and speaking skills,as well as reading and writing
-     Grade of English:CET-4:503  CET-6:497
-
-### Technical Skills and Knowledge
-* 24 months java experience
-* 6 months C/C++ experience
-* 14 months Linux OS experience
-* Proficient use Oracle and Mysql 
-* 6 months HP ALM,UFT,LoadRunner testing tools experience
-* 12 months python experience
-
-### Professional Training
-
-#### 2014.9-2015.1
-	HP jining testing training
-	Learned software develop in Linux,completed a Gtk+ chatting program
-	Learned software testing
-	
-### Education
-	2011-2015
-Bachelor of Engineering Degree in Computer Science from Shandongjiaotong University 
-
-### Personal evaluation
-* A stable personality and high sense of responsibility
-* Energetic, and fashionable
-* Teamwork   
+##### [here is my resume](http://yujl.org/resume/2016/04/26/resume-english)
 
 

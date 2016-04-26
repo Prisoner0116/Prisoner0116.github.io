@@ -12,6 +12,6 @@ tagline: (About Me)
 
 ## Further know about me 
 
-##### [here is my resume](http://yujl.org/resume/2016/04/26/resume-english)
+##### [here to see more information about me](http://yujl.org/resume/2016/04/26/resume-english)
 
 

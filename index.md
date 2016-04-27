@@ -10,7 +10,7 @@ tagline: (About Me)
 
 ##### Hello,i'm Jianlong Yu,25 years old. I'm a programmer,photographer ,bad cooker and bassist currently living in Shanghai, China. 
 
-## here is my resume  
+## Here is my resume  
 
 #### [click here to see my resume online](http://yujl.org/resume/2016/04/26/resume)
 

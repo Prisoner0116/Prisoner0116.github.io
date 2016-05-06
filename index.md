@@ -15,12 +15,13 @@ tagline: (About Me)
 ### What am i doing
 
 	i'm working for Inspur as a Java develop engineer at Shanghai currently,obviously ,i'm a programmer ,using java,python for developing .
- 
+
+#### [Inspur](http://www.inspur.com/)
+
 ### what can i do
 	
 	develop java web application with Spring,Hibernate,Struct,Tapestry
 		
-#### [Inspur](http://www.inspur.com/)
 	
 ### What am i going to do	
 

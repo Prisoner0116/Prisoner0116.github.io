@@ -10,7 +10,7 @@ tagline: (About Me)
 
 ### Who Am I 
 
-	Hello,i'm Jianlong Yu,25 years old. I'm a programmer,photographer and bassist currently living in Shanghai, China. 
+	Hi,i'm Jianlong Yu,25 years old. I'm a programmer,photographer and bassist currently living in Shanghai, China. 
 
 ### What am i doing
 
@@ -26,7 +26,6 @@ tagline: (About Me)
 	
 	Email is the best way,my Email address is 18753141385@163.com
 	see more information about me ,you can see my resume online or the resume with pdf.
-
 
 ### Here is the resume  
 

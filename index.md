@@ -34,6 +34,8 @@ tagline: (About Me)
 
 ### Here is the resume  
 
+#### [click here to fork me on github](https://github.com/Prisoner0116)
+
 #### [click here to see my resume online](http://yujl.org/resume/2016/04/26/resume)
 
 #### [click here to download or print my resume](http://yujl.org/pdf/resume.pdf)

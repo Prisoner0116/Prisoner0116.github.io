@@ -6,6 +6,7 @@ description: java自定义注解示例，通过自定义@Test和@TesterInfo两�
 ---
 
 声明：这是一篇从[mkyong]翻译过来的文章，查看原文请访问[mkyong]
+
 在这篇教程里，你将会看到如何创建两个自定义的注解`@Test`和`@TesterInfo`来模拟一个简单的单元测试框架
 
 PS:这个单元测试的例子参考自官方的[Java annotation article]

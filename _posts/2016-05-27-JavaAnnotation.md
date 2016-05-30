@@ -2,7 +2,7 @@
 layout: post
 title:  java 自定义注解示例
 category: blog
-description: java自定义注解示例，通过自定义`@Test`和`@TesterInfo`两个注解模拟一个简单的单元测试框架
+description: java自定义注解示例，通过自定义@Test和@TesterInfo两个注解模拟一个简单的单元测试框架
 ---
 
 声明：这是一篇从[mkyong]翻译过来的文章，查看原文请访问[mkyong]

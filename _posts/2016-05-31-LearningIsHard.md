@@ -41,52 +41,52 @@ description: 翻译自Jakob Jenkov 的网站
 
 在下面的章节中我将会阐述当我再学习中遇到挫折的时候我是怎么做的
 
-#### Reread the Book
+#### 书读百遍，其义自现（Reread the Book）
 
-There is nothing more frustrating than a book that is hard to understand. It makes you feel stupid. However, as you gain more and more experience, you get better at distinguishing between your own incompetence and a book that just doesn't explain a topic very well. Lots of books are just not very good.
+读一本很难让人理解的书无疑会是一件很让人头疼的事情。有时候你会觉得自己很蠢。然而随着你经验的增长，你会发现大多数的书写的都不是很好。
 
-If you don't understand a book the first time you read it, you might benefit from rereading the book. The second time you read the book your brain doesn't have to work as hard to understand the parts you already understood the first time you read the book. That leaves more brain capacity for the parts you did not understand during first read.
+如果第一遍你没读懂，那就再读一遍，你肯定会获益匪浅。因为第一次阅读的时候你已经掌握了一定的内容，这样，第二次的阅读的时候你的大脑将会更多的去理解你不懂得内容。
 
-I have had books I needed to read up to 5 times before I finally understood everything in them. First time I might have understood something like 20-50% of the book. Each reread then added another 10% or so, and finally I understood it all. 
+有一次，我为了完全掌握一本书，我一共读了五遍。第一次我可能理解了大概20-50%，第二次会增加10%，第三次又会有新的收获，最终我完全理解了这本书。 
 
-#### Read More Books
+#### 人丑就要多读书（Read More Books）
 
-Another technique I often use is to read more than one book about a given topic. The different books are not always weak in the same areas. Thus, if I understand 40% of the topic from the first book, I might add another 20% to that from reading the second book.
+另一种我常常用的方法是读很多关于同一个主题的书。每本书的侧重点都不同，如果我从第一本书中掌握了关于这种技术的40%，那我可能从另一本书中收获20%（同一个主题）
 
-Combine reading multiple books with rereading the books. If you understand 20% from the first book, then and additional 30% from the second book, you now know 50%. With that knowledge, go back and reread the first book. Most likely you will be able to get another 5-10-20% out of it now. And then you can return to the second book etc.
+将多读书和重复阅读结合起来。如果你从第一本书中第一次收获了20%，从第二本书中第一次收获了其他的30%，现在你已经掌握了50%。有了这些基础，再去读一遍第一本书，大多数情况下，你会收获5-10-20%，接着你就可以再去阅读一遍度而本书。
 
-It is not uncommon for me to use 2-3 books on a given topic to cover all the necessary ground. Also, I keep switching between them until I have understood everything I can from them. 
+阅读2-3本书来完全理解一项技术对我来说并不少见，我会来回切换，直到我完全理解了这项技术。
 
-#### Use More Sources
 
-When I cannot get books about a certain topic, or if the books are weak in certain areas, I often supplement with online resources. Tutorials in article and video form are often very useful supplements. Articles often dive deeper into narrow topics, or give a more brief overview than a book can. The same with videos.
+#### 利用其它的资源（Use More Sources）
 
-Again, I often read several different articles and watch several different videos about the same topic, until I finally feel I understand it. 
+有时候想去学习一门技术但是找不到相关的书籍，或者相关的书籍很烂，这时候就可以利用网上的资源了。文字和视频教程都是非常有用的补充。网络上的一篇文章有时候只是为了说明一个小问题，或者更简明的概述，这比长篇大论的书本要好的多。视频也是如此。
 
-#### Make Examples
+和读书一样，从网上我也会看好几个关于同一个主题的文章和视频，直到觉得我完全理解了。
 
-When what I have to learn is programming related I often find it beneficial to make code examples myself. I open an IDE / editor, type in the examples in the book (or make up my own examples) and check that I get the expected result. I guess you could even setup unit tests for that, but I often just use a main() method to run my examples. 
+#### 多动手（Make Examples）
 
-#### Ask People
+当我学一些和编程相关的技术的时候，我发现自己敲示例代码是很有效果的。我会打开IDE或者编辑器，将书上的例子敲上去（或者敲自己的示例代码），并且得到预期的结果。你可以建一个单元测试，但我通常是写一个`main()`方法来执行我写的示例。
 
-If you really cannot understand a certain topic, or a small part of it, ask people. If you have friends or colleagues that understand the topic ask them to explain it to you. You will be surprised about how often they are willing to do so. You might think they will think you are stupid - and maybe they will. But once you can demonstrate that understand the topic - after their explanation, they will usually not think you are so stupid anymore. Now you understand, right? 
+#### 多问（Ask People）
 
-#### Few Will Remember How Long it Took For You To Learn a Topic
+当你确实不懂某一点，不妨问问别人。如果你有同学或者朋友懂的话，让他们给你解释一下。他们会非常乐意这么做的。你可能回想他们会觉得我很蠢（也许会吧）。但是当他们给你解释完了之后，你真的懂了，他们就不会这么觉得了，现在你懂了不是吗？
 
-Don't be afraid that your employer, friends or colleagues will think you are stupid, or a slow learner. They will usually forget once they realize you have learned the topic. Some years later, nobody remembers how long time you took to learn a given topic.
+#### 没有人在意你花了很长时间学习一门技术（Few Will Remember How Long it Took For You To Learn a Topic）
 
-Even if they did remember, their current experience is that you do understand the topic, so it doesn't really carry so much weight. Chances are, they have topics themselves where they too had to spend a long time to learn them. Most experienced developers will understand that, and not hold that against you.
+不要害怕别人认为你很蠢，或者你学习东西很慢。当你真的掌握了这门技术之后，他们就会忘记这些。假以时日，没人会记得你学这个东西花了多长时间。
 
-In the end, all that matters is that you learned. Not how long time it took to learn it. 
+即使他们记得，他们现在的体会也是你真的懂这门技术，所以这真的不是很重要。其他人有时候也需要很长的时间去掌握一门技术。所以绝大多数的有经验的开发人员都懂这些，所以不要让这一点成为你学习路上的绊脚石。
 
-#### Summary
+最后，最终要的是你学会了，而不是你花了多长时间来学习他。
 
-So, you should definitely not give up. You might need longer time than others to learn a certain topic, but that doesn't mean you cannot learn it. It just means you have to spend more time learning it. And - you can compensate for that exactly by spending more time on it.
+#### 总结（Summary）
 
-Reread the books, read multiple books, use multiple sources, make examples and ask people.
+总结一下，不要放弃，你可能是要比别人花更多的时间来掌握一门技术，但是这并不意味着你不能学会它。这只是意味着你学要花更多的时间来学习。而且你可以花更多的时间来弥补这些（比别人需要更多的时间）。
 
-With each iteration your understanding grows. In the end you will understand the topic, and when you do - nobody will remember how long time it took you to learn it. 
+重复阅读，读更多的书，利用更多的资源，做好示例，多问问其他人。
 
+如果你懂了这篇文章里的每一次，你也就理解了这篇文章的主题。当你真的去做的时候，没有人会记得你花了多长时间来学习。
 
 
 [Jakob Jenkov]: http://tutorials.jenkov.com/software-as-career/learning-is-hard.html "Jakob Jenkov"

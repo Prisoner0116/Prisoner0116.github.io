@@ -86,7 +86,7 @@ description: 翻译自Jakob Jenkov 的网站
 
 重复阅读，读更多的书，利用更多的资源，做好示例，多问问其他人。
 
-如果你懂了这篇文章里的每一次，你也就理解了这篇文章的主题。当你真的去做的时候，没有人会记得你花了多长时间来学习。
+如果你懂了这篇文章里的每一条，你也就理解了这篇文章的主题。当你真的去做的时候，没有人会记得你花了多长时间来学习。
 
 
 [Jakob Jenkov]: http://tutorials.jenkov.com/software-as-career/learning-is-hard.html "Jakob Jenkov"

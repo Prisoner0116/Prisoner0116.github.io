@@ -89,8 +89,9 @@ description: 宁夏枸杞直销
 
 * 18295085220
 
-or扫一扫加我
+or扫一扫加我们
 ![touchagouqi](/images/weixin/weixin1.jpg)
+![touchagouqi](/images/weixin/weixin2.jpg)
 
 
 ![touchagouqi](/images/gouqi/gouqi1.jpg)

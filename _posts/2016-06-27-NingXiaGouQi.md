@@ -2,7 +2,7 @@
 layout: post
 title:  最好的枸杞 --头茬枸杞
 category: blog
-description: 
+description: 头茬枸杞介绍
 ---
 ![touchagouqi](/images/gouqi/gouqi4.jpg)
 

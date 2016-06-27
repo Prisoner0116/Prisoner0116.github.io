@@ -74,7 +74,7 @@ description: 头茬枸杞介绍
 
 ### 枸杞相关视频[滋补红宝枸杞]：
 
-<table align="center" style="margin-bottom:30px;"><tr><td><embed src="http://player.youku.com/player.php/sid/XMzM3MzI4NDA4/v.swf" quality="high" width="480" height="400" align="middle" allowScriptAccess="sameDomain" allowFullscreen="true" type="application/x-shockwave-flash"></embed></td></tr></table>
+<table align="center" style="margin-bottom:30px;"><tr><td><embed src="http://player.cntv.cn/standard/cntvOutSidePlayer.swf?v=2.0.2013.1.8.0&amp;videoId=VIDE100204612244&amp;filePath=&amp;isAutoPlay=false&amp;url=http://tv.cntv.cn/video/C10606/d98965f12e544ccd618984bc899cf60c&amp;tai=tv&amp;configPath=http://js.player.cntv.cn/xml/config/common.xml&amp;widgetsConfig=http://js.player.cntv.cn/xml/widgetsConfig/common.xml&amp;languageConfig=undefined&amp;hour24DataURL=VodCycleData.xml&amp;outsideChannelId=channelBugu&amp;videoCenterId=998c89409d224fcd8742fcf0ea4cd1f7" width="600" height="400" /></td></tr></table>
 
 
 ### 联系我们
@@ -93,4 +93,4 @@ description: 头茬枸杞介绍
 
 [1]: http://jingyan.baidu.com/article/19020a0a026767529d2842c7.html "如何挑选头茬枸杞"
 [2]: http://www.zhihu.com/question/26374714/answer/35416048?f3fb8ead20=a934c1888272734b36825ce13a31ffc7 "知乎-枸杞功效"
-[滋补红宝枸杞]: http://v.youku.com/v_show/id_XMzM3MzI4NDA4.html
+[滋补红宝枸杞]: http://tv.cntv.cn/video/C10606/d98965f12e544ccd618984bc899cf60c

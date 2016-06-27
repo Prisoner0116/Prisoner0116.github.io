@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  最好的枸杞 --头茬枸杞
+title:  最好的枸杞
 category: blog
-description: 头茬枸杞介绍
+description: 宁夏枸杞直销
 ---
 ![touchagouqi](/images/gouqi/gouqi4.jpg)
 
@@ -77,9 +77,10 @@ description: 头茬枸杞介绍
 <table align="center" style="margin-bottom:30px;"><tr><td><embed src="http://player.cntv.cn/standard/cntvOutSidePlayer.swf?v=2.0.2013.1.8.0&amp;videoId=VIDE100204612244&amp;filePath=&amp;isAutoPlay=false&amp;url=http://tv.cntv.cn/video/C10606/d98965f12e544ccd618984bc899cf60c&amp;tai=tv&amp;configPath=http://js.player.cntv.cn/xml/config/common.xml&amp;widgetsConfig=http://js.player.cntv.cn/xml/widgetsConfig/common.xml&amp;languageConfig=undefined&amp;hour24DataURL=VodCycleData.xml&amp;outsideChannelId=channelBugu&amp;videoCenterId=998c89409d224fcd8742fcf0ea4cd1f7" width="600" height="400" /></td></tr></table>
 
 
-### 联系我们
+### 关于我们
 
-微信号：yujl18753141385
+
+微信号：yujl18753141385   15109616225   18295085220
 
 ![touchagouqi](/images/gouqi/gouqi1.jpg)
 

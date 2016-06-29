@@ -84,7 +84,7 @@ description: 宁夏中宁枸杞直销
 
 ### 枸杞相关视频[滋补红宝枸杞]：
 
-<table align="center" style="margin-bottom:30px;"><tr><td><embed src="http://player.cntv.cn/standard/cntvOutSidePlayer.swf?v=2.0.2013.1.8.0&amp;videoId=VIDE100204612244&amp;filePath=&amp;isAutoPlay=false&amp;url=http://tv.cntv.cn/video/C10606/d98965f12e544ccd618984bc899cf60c&amp;tai=tv&amp;configPath=http://js.player.cntv.cn/xml/config/common.xml&amp;widgetsConfig=http://js.player.cntv.cn/xml/widgetsConfig/common.xml&amp;languageConfig=undefined&amp;hour24DataURL=VodCycleData.xml&amp;outsideChannelId=channelBugu&amp;videoCenterId=998c89409d224fcd8742fcf0ea4cd1f7" width="600" height="400" /></td></tr></table>
+<table align="center" style="margin-bottom:30px;"><tr><td><embed src="http://player.cntv.cn/standard/cntvOutSidePlayer.swf?v=2.0.2013.1.8.0&amp;videoId=20091109119511&amp;filePath=&amp;isAutoPlay=false&amp;url=http://tv.cntv.cn/video/C10606/d98965f12e544ccd618984bc899cf60c&amp;tai=tv&amp;configPath=http://js.player.cntv.cn/xml/config/common.xml&amp;widgetsConfig=http://js.player.cntv.cn/xml/widgetsConfig/common.xml&amp;languageConfig=undefined&amp;hour24DataURL=VodCycleData.xml&amp;outsideChannelId=channelBugu&amp;videoCenterId=d98965f12e544ccd618984bc899cf60c" width="600" height="400" /></td></tr></table>
 
 
 ### 联系我们

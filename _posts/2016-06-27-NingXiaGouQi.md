@@ -2,7 +2,7 @@
 layout: post
 title:  天下黄河富宁夏，宁夏枸杞甲天下
 category: blog
-description: 
+description: 宁夏中宁枸杞直销
 ---
 ![touchagouqi](/images/gouqi/gouqi4.jpg)
 

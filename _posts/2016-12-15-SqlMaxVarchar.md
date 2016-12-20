@@ -1,6 +1,6 @@
 ---
 layout: post
-title: oracle数据库中varchar类型使用max()函数及varchar排序
+title: oracle数据库中varchar使用max()函数及varchar排序问题解决方法
 category: blog
 description:  oracle数据库中，varchar类型数据使用max函数如何获取最大值及varchar类型数据如何排序
 ---
